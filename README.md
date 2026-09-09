@@ -1,1 +1,3 @@
 # datasci101
+
+Just some collection of Jupyter Notebooks from class...
